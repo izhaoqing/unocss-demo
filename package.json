@@ -1,0 +1,31 @@
+{
+  "name": "unocss-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izhaoqing/unocss-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/izhaoqing/unocss-demo/issues"
+  },
+  "homepage": "https://github.com/izhaoqing/unocss-demo#readme",
+  "devDependencies": {
+    "@unocss/transformer-directives": "^0.27.6",
+    "@vitejs/plugin-vue": "^2.2.4",
+    "@vue/compiler-sfc": "^3.2.31",
+    "less": "^4.1.2",
+    "unocss": "^0.27.6",
+    "vite": "^2.8.6"
+  },
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
+}
