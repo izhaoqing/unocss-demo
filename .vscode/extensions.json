@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "vue.volar",
+        "dbaeumer.vscode-eslint",
+        "zhaoqing.gitlabmrt",
+        "antfu.unocss",
+        "stylelint.vscode-stylelint",
+    ]
+}

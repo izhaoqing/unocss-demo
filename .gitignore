@@ -1,0 +1,11 @@
+*.local
+dist
+*.log
+.DS_Store
+node_modules
+*.zip
+.idea/
+auto-imports.d.ts
+components.d.ts
+.eslintrc-auto-import.json
+__unconfig_vite.config.ts
